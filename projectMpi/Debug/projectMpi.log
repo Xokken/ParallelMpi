@@ -1,0 +1,4 @@
+﻿  HomeTasks.cpp
+C:\Users\alexey.dyakonov.MIRCOD\source\repos\projectMpi\projectMpi\HomeTasks.cpp(50,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\alexey.dyakonov.MIRCOD\source\repos\projectMpi\projectMpi\HomeTasks.cpp(294,32): warning C4018: <: несоответствие типов со знаком и без знака
+  projectMpi.vcxproj -> C:\Users\alexey.dyakonov.MIRCOD\source\repos\projectMpi\Debug\projectMpi.exe
